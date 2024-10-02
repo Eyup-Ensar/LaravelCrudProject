@@ -1,1 +1,1 @@
-# LaravelCrudProject
+Yerel README.md dosyası içeriği
