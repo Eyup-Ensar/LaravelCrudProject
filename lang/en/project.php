@@ -1,0 +1,25 @@
+<?php 
+  return [
+    'urunler' => 'Products',
+    'urunekle' => 'Add Product',
+    'ad' => 'Name',
+    'fiyat' => 'Price',
+    'aciklama' => 'Description',
+    'islemler' => 'Operationst',
+    'guncelle' => 'Update',
+    'sil' => 'Delete',
+    'giris' => 'Login',
+    'cikis' => 'Logout',
+    'kayit' => 'Register',
+    'yayinla' => 'publish',
+    'ekle' => 'Add',
+    'urunguncelle' => 'Update Product',
+    'anasayfa' => 'Home Page',
+    'panel' => 'Go To Panel',
+    'sifre' => 'Password',
+    'kulad' => 'User Name',
+    'hesapyokmu' => 'Don\'t you have an account?',
+    'panelgiris' => 'Login Panel',
+    'sifreonay' => 'Password Confirmation',
+  ]
+?>
